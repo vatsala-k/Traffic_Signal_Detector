@@ -16,7 +16,7 @@ The combination of image classification and live inference showcases how machine
 ---
 
 ##  Dataset Information
-The dataset consists of **42 different traffic sign classes**, representing a diverse set of road signs (e.g., warning, regulatory, and informational signs). The images are organized into class-wise folders, and a `labels.csv` file maps each class index to its corresponding traffic sign name.
+The dataset consists of **43 different traffic sign classes**, representing a diverse set of road signs (e.g., warning, regulatory, and informational signs). The images are organized into class-wise folders, and a `labels.csv` file maps each class index to its corresponding traffic sign name.
 
 ---
 
